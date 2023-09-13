@@ -51,7 +51,7 @@ EOF
 # Firefox dependencies
 libdbus-glib-1-2
 libpci3
-libpci
+libpci-dev
 libxt6
 libsm6
 libice6
