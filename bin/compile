@@ -50,6 +50,7 @@ EOF
 		cat << EOF >>$build_tmpdir/Aptfile
 # Firefox dependencies
 libdbus-glib-1-2
+libpci3
 libxt6
 libsm6
 libice6
