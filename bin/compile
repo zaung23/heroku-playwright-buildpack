@@ -52,6 +52,7 @@ EOF
 libdbus-glib-1-2
 libpci3
 libpci-dev
+libglu1-mesa-dev
 libxt6
 libsm6
 libice6
